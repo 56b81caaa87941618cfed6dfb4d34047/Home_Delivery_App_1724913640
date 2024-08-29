@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time order status updates\", \"checked\": true}, {\"feature\": \"Automatic address detection using GPS\", \"checked\": false}, {\"feature\": \"Option to repeat previous orders with a single click\", \"checked\": false}, {\"feature\": \"Customer feedback form on completion of orders\", \"checked\": true}, {\"feature\": \"In-app notifications for new deals and promotions\", \"checked\": true}, {\"feature\": \"Schedule orders in advance\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 111, \"time_taken\": \"0:00:03.293614\"}",
+        "message_id": "guest29082024064137",
+        "timestamp": "29082024064143",
+        "component_file_name": "simple_header_component_1724913644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Will add a submit button as requested.",
         "message_id": "guest29082024064137",
