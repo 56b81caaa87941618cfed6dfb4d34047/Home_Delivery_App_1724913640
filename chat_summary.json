@@ -42,5 +42,11 @@
         "content": "Okay, I'm adding a button that says 'Hello World'.",
         "timestamp": "29082024064715",
         "message_id": "guest29082024064711"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add a button that says hello world\", \"checked\": true}, {\"feature\": \"include hover effect on buttons\", \"checked\": false}, {\"feature\": \"add a confirmation message after submission\", \"checked\": false}, {\"feature\": \"create a loading spinner when processing requests\", \"checked\": false}, {\"feature\": \"enable button animations for better UX\", \"checked\": false}], \"input_token_count\": 253, \"output_token_count\": 92, \"time_taken\": \"0:00:02.414003\"}",
+        "timestamp": "29082024064718",
+        "message_id": "guest29082024064711"
     }
 ]
