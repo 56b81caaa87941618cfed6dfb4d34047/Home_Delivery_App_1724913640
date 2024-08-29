@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button taht says hello world",
+        "message_id": "guest29082024064711",
+        "timestamp": "29082024064712",
+        "component_file_name": "simple_footer_component_1724913644",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the submit button to be placed within the app's interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"After the last field, before any form navigation buttons\"}, {\"question 2\": \"Should the submit button have a specific color theme to match the app's design, or do you have a color preference?\", \"option1\": \"Use the app's primary color theme\", \"option2\": \"I will provide a specific color code\"}], \"input_token_count\": 270, \"output_token_count\": 114, \"time_taken\": \"0:00:03.404369\"}",
         "message_id": "guest29082024064137",
